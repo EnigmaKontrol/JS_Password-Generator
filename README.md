@@ -18,8 +18,8 @@ The main focus of the retracting of the javascript file are as follows:
 * Created a 'for-loop' to push the user's input from the confirm function to generate a password
 * Finally the event listener to have a 'click' to write the password
 
-## Horiseon Website Image
-![Horiseon_Website] (<img src="./Assets/03-javascript-homework-demo.png" alt="Password_Generator_Webiste" />)
+## Password_Generator Website Image
+![Password_Generator_Website_Image] (<img src="./Assets/03-javascript-homework-demo.png" alt="Password_Generator_Webiste" />)
 
 ## Hyperlink to Website
-[PasswordGenerator_Website] (https://enigmakontrol.github.io/Challenge_1_Marketing-Agency/ "Horiseon")
+[PasswordGenerator_Website] (https://enigmakontrol.github.io/JS_Password-Generator/ "Password_Generator")
